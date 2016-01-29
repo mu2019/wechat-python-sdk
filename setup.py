@@ -8,7 +8,7 @@ setup(
     version='0.5.9',
     keywords=('wechat', 'sdk', 'wechat sdk'),
     description=u'微信公众平台Python开发包',
-    long_description=open("README.rst").read(),
+    long_description=open("README.rst",encoding='utf-8').read(),
     license='BSD License',
 
     url='https://github.com/wechat-python-sdk/wechat-python-sdk',
